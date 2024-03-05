@@ -5,3 +5,4 @@ export 'src/testimonial_card.dart';
 export 'src/contact_card.dart';
 export 'src/content_card.dart';
 export 'src/logo.dart';
+export 'src/wrap_content_container.dart';
